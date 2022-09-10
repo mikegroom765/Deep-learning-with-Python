@@ -4,3 +4,7 @@ dogs-vs-cat
 *.zip
 *.csv
 *.keras
+annotations
+images
+annotations.tar.gz
+images.tar.gz
